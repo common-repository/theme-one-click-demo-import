@@ -1,0 +1,7 @@
+a:4:{s:8:"template";s:16:"career-portfolio";s:4:"mods";a:7:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:2;}s:18:"custom_css_post_id";i:276;s:13:"theme_options";a:7:{s:14:"enable_aboutus";b:0;s:19:"enable_header_media";b:1;s:18:"header_media_title";s:15:"Business Agency";s:22:"header_media_sub_title";s:20:"Save Time Save Money";s:25:"header_media_button_title";s:15:"Continuous read";s:16:"enable_line_wrap";b:0;s:13:"site_identity";s:9:"logo-only";}s:21:"external_header_video";s:0:"";s:12:"header_video";i:19;s:11:"custom_logo";i:342;}s:7:"options";a:2:{s:9:"site_icon";s:3:"338";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:234:".career-portfolio-elementor-builder #myfullpage .fearured-section + .primary-secondary-wrap{
+	padding:100px 0 0;
+}
+.career-portfolio-elementor-builder.no_sidebar .primary-secondary-wrap>.container{
+    width: 100%;
+		max-width:100%;
+}";}

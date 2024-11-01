@@ -1,0 +1,66 @@
+a:4:{s:8:"template";s:16:"career-portfolio";s:4:"mods";a:10:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:5;s:12:"social-media";i:6;}s:18:"custom_css_post_id";i:69;s:13:"theme_options";a:36:{s:17:"pagination_layout";s:7:"numeric";s:19:"enable_header_media";b:1;s:14:"enable_aboutus";b:1;s:18:"enable_social_menu";b:1;s:14:"copyright_text";s:19:"All right researved";s:21:"disable_media_archive";b:0;s:13:"about_us_page";i:81;s:15:"progress_secton";s:244:"[{"progress_number":"75","progress_icon":"%","progress_title":"ADOBE ILLUSTRATOR"},{"progress_number":"90","progress_icon":"%","progress_title":"ADOBE PHOTOSHOP "},{"progress_number":"55","progress_icon":"%","progress_title":"HTML 5 \/ CSS 3"}]";s:14:"counter_secton";s:307:"[{"counter_number":"427","counter_icon":"","counter_title":"HAPPY CLIENTS"},{"counter_number":"5236","counter_icon":"","counter_title":"PROJECTS COMPLETED"},{"counter_number":"9","counter_icon":"","counter_title":"AWARD WINNING"},{"counter_number":"12","counter_icon":"","counter_title":"YEARS EXPERIENCE"}]";s:20:"enable_qualification";b:1;s:22:"qualification_category";i:7;s:29:"qualification_category_second";i:8;s:14:"enable_service";b:1;s:19:"enable_home_content";b:0;s:16:"service_category";i:7;s:14:"enable_counter";b:1;s:16:"counter_bg_image";s:89:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/counter.jpg";s:16:"enable_portfolio";b:1;s:18:"portfolio_category";a:2:{i:0;i:4;i:1;i:3;}s:12:"enable_video";b:1;s:14:"video_bg_image";s:90:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/video-bg.jpg";s:9:"video_url";s:43:"https://www.youtube.com/watch?v=fhaaOOC9rHI";s:18:"enable_testimonial";b:1;s:20:"testimonial_category";i:8;s:16:"testimonial_page";i:133;s:18:"testimonial_number";i:3;s:13:"enable_client";b:1;s:12:"client_image";s:733:"[{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo1.png"},{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo2.png"},{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo3.png"},{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo4.png"},{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo6.png"},{"client_logo":"https:\/\/demo.theme404.com\/career-portfolio\/default\/wp-content\/uploads\/2019\/08\/client-logo5.png"}]";s:11:"enable_blog";b:1;s:13:"blog_category";i:2;s:14:"enable_contact";b:1;s:16:"contact_bg_image";s:89:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/contact.jpg";s:12:"contact_page";i:58;s:13:"site_identity";s:9:"logo-only";s:23:"header_media_button_url";s:1:"#";s:24:"qualification_button_url";s:1:"#";}s:16:"background_image";s:87:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/bg-01.png";s:12:"header_image";s:101:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/cropped-feature-img.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:75;s:3:"url";s:101:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/cropped-feature-img.jpg";s:13:"thumbnail_url";s:101:"https://demo.theme404.com/career-portfolio/default/wp-content/uploads/2019/08/cropped-feature-img.jpg";s:6:"height";i:730;s:5:"width";i:1470;}s:16:"background_color";s:6:"f5f5f5";s:16:"header_textcolor";s:6:"1e73be";s:11:"custom_logo";i:222;}s:7:"options";a:2:{s:9:"site_icon";s:3:"224";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1282:".blog-item {
+	margin: 0 15px 30px;
+}
+.site-header .navbar{
+	z-index:99;
+}
+.site-header .navbar.menu-expand a{
+	color:#fff;
+}
+.site-description{
+	margin:0;
+}
+.cat-links{
+	font-weight:400;
+}
+.portfolio-item .portfolio-content .entry-title{
+	font-weight:400;
+	line-height:1.5;
+}
+.entry-content form .wpcf7-form-control-wrap{
+	display:block;
+	margin-bottom:15px;
+}
+.contact-us-section .section-info{
+	  display: flex;
+    flex-wrap: wrap;
+}
+.contact-us-section figure{
+	align-self: flex-end;
+}
+.contact-us-section .contact-us-wrap{
+	    padding-bottom: 30px;
+}
+@media only screen and (max-width: 1300px) {
+	.site-branding .site-title {
+    font-size: 30px;
+}
+	#myfullpage .fearured-section + .primary-secondary-wrap {
+    padding: 70px 0;
+}
+}
+@media only screen and (max-width: 768px) {
+	.right_sidebar #primary, .left_sidebar #primary{
+		width:100%;
+		float:none;
+	}
+}
+@media only screen and (max-width: 640px) {
+	.site-branding .site-title {
+    font-size: 22px;
+}
+	#myfullpage .fearured-section + .primary-secondary-wrap {
+    padding: 30px 0;
+}
+}
+@media only screen and (max-width: 479px){
+.site-branding .site-title {
+    font-size: 18px;
+}
+	.site-branding{
+		top:0;
+		-moz-transform: translateX(-30%);
+    -webkit-transform: translateX(-30%);
+    transform: translateX(-30%);
+	}
+}";}

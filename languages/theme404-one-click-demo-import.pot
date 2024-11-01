@@ -1,0 +1,320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Theme404 One Click Demo Import\n"
+"POT-Creation-Date: 2020-05-19 16:58+0545\n"
+"PO-Revision-Date: 2020-05-19 16:58+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: theme404-one-click-demo-import.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/core/class-theme404-ocdi.php:113 inc/core/class-theme404-ocdi.php:124
+#: inc/core/classes/class-theme404-ocdi-ajax.php:88
+#: inc/core/classes/class-theme404-ocdi-ajax.php:103
+#: inc/core/classes/class-theme404-ocdi-api.php:84
+#: inc/core/classes/class-theme404-ocdi-api.php:99
+#: inc/core/classes/class-theme404-ocdi-core.php:87
+#: inc/core/classes/class-theme404-ocdi-core.php:102
+#: inc/core/classes/class-theme404-ocdi-plugins.php:87
+#: inc/core/classes/class-theme404-ocdi-plugins.php:102
+#: inc/core/ui/class-theme404-ocdi-admin.php:86
+#: inc/core/ui/class-theme404-ocdi-admin.php:101
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/core/class-theme404-ocdi.php:140 inc/core/class-theme404-ocdi.php:141
+#: inc/views/body.php:101
+msgid "Import Demo"
+msgstr ""
+
+#: inc/core/class-theme404-ocdi.php:231
+#, php-format
+msgid ""
+"<p>You need to have one of the themes from <a href=\"%1$s\" target=\"_blank"
+"\">%2$s</a> installed, to use <strong>%3$s</strong> plugin</p>"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-ajax.php:166
+#: inc/core/classes/class-theme404-ocdi-ajax.php:218
+#: inc/core/classes/class-theme404-ocdi-ajax.php:243
+#: inc/core/classes/class-theme404-ocdi-ajax.php:272
+#: inc/core/classes/class-theme404-ocdi-ajax.php:285
+#: inc/core/classes/class-theme404-ocdi-ajax.php:326
+#: inc/core/classes/class-theme404-ocdi-ajax.php:360
+#: inc/core/classes/class-theme404-ocdi-ajax.php:397
+#: inc/core/classes/class-theme404-ocdi-ajax.php:418
+#: inc/core/classes/class-theme404-ocdi-ajax.php:469
+#: inc/core/classes/class-theme404-ocdi-ajax.php:537
+#: inc/core/classes/class-theme404-ocdi-ajax.php:587
+#: inc/core/classes/class-theme404-ocdi-ajax.php:639
+#: inc/core/classes/class-theme404-ocdi-ajax.php:683
+#: inc/core/classes/class-theme404-ocdi-ajax.php:733
+#: inc/core/ui/class-theme404-ocdi-admin.php:227
+msgid "Sorry!"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-ajax.php:167
+#: inc/core/classes/class-theme404-ocdi-ajax.php:219
+#: inc/core/classes/class-theme404-ocdi-ajax.php:244
+#: inc/core/classes/class-theme404-ocdi-ajax.php:273
+#: inc/core/classes/class-theme404-ocdi-ajax.php:286
+#: inc/core/classes/class-theme404-ocdi-ajax.php:327
+#: inc/core/classes/class-theme404-ocdi-ajax.php:361
+#: inc/core/classes/class-theme404-ocdi-ajax.php:398
+#: inc/core/classes/class-theme404-ocdi-ajax.php:419
+#: inc/core/classes/class-theme404-ocdi-ajax.php:470
+#: inc/core/classes/class-theme404-ocdi-ajax.php:538
+#: inc/core/classes/class-theme404-ocdi-ajax.php:588
+#: inc/core/classes/class-theme404-ocdi-ajax.php:640
+#: inc/core/classes/class-theme404-ocdi-ajax.php:684
+#: inc/core/classes/class-theme404-ocdi-ajax.php:734
+msgid "This action cannot be performed now. Please try again later!"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-api.php:169
+msgid "An unknown API error occurred."
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-api.php:180
+msgid "No data received. May be data is malformed."
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:285
+msgid "Importing Options"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:357
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:400
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:423
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:461
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:536
+msgid "Imported"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:539
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-core.php:545
+msgid "No Title"
+msgstr ""
+
+#: inc/core/classes/class-theme404-ocdi-plugins.php:395
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:140
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:479
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:642
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:981
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:1688
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:1701
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:1706
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/core/classes/importer/class-wxr-importer.php:1712
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:218
+msgid "You're Offline!"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:219
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:220
+msgid "Preview"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:221
+msgid "Please Wait!"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:222
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:223
+msgid "Import Content"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:224
+msgid "Installing &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:225
+msgid "Activating &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:226 inc/views/plugins-list.php:32
+#: inc/views/plugins-list.php:73
+msgid "Active"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:229
+msgid "Please try again later!"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:233
+msgid "Importing Content&#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:237
+msgid "Importing Customize Information &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:241
+msgid "Importing Widgets &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:245
+msgid "Importing Slider &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:249
+msgid "Something Went Wrong!"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:253
+msgid "Preparing to import &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:257
+msgid "Setting Menus &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:261
+msgid "Setting Pages &#8230;"
+msgstr ""
+
+#: inc/core/ui/class-theme404-ocdi-admin.php:265
+msgid "Finalizing the Import &#8230;"
+msgstr ""
+
+#: inc/views/body.php:26
+msgid "All"
+msgstr ""
+
+#: inc/views/body.php:92
+msgid "Pro"
+msgstr ""
+
+#: inc/views/body.php:119
+msgid "No demos found for theme. Please try again later."
+msgstr ""
+
+#: inc/views/complete.php:14
+msgid "Import Complete"
+msgstr ""
+
+#: inc/views/complete.php:19
+msgid "View Demo"
+msgstr ""
+
+#: inc/views/complete.php:23
+msgid "Customize"
+msgstr ""
+
+#: inc/views/complete.php:29
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/views/import.php:54
+msgid "We suggest you to import Complete Demo."
+msgstr ""
+
+#: inc/views/importing.php:7
+msgid "Please wait while the content is being imported!"
+msgstr ""
+
+#: inc/views/importing.php:12
+msgid ""
+"This process may take upto 10 minutes to complete. Please do not refresh or "
+"close this page."
+msgstr ""
+
+#: inc/views/plugins-list.php:2
+msgid "Required plugins for this demo."
+msgstr ""
+
+#: inc/views/plugins-list.php:4
+msgid "The following plugins are required to be installed for this demo:"
+msgstr ""
+
+#: inc/views/plugins-list.php:19 inc/views/plugins-list.php:60
+msgid "Ready to Install"
+msgstr ""
+
+#: inc/views/plugins-list.php:29 inc/views/plugins-list.php:70
+msgid "Activate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Theme404 One Click Demo Import"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://theme404.com/theme404-one-click-demo-import"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Theme404 One Click Demo Import is the plugin to import the starter/demo site "
+"with few clicks of your mouse button."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "team theme404"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://theme404.com"
+msgstr ""

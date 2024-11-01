@@ -1,0 +1,144 @@
+.ajax-loader {
+  visibility: hidden;
+  background-color: rgba(255,255,255,0.7);
+  position: fixed;
+  z-index: 9999 !important;
+  width: 100%;
+  height:100%;
+  top:0;
+  left: 0;
+}
+
+#div1 {
+	visibility: hidden;
+}
+
+.result {
+	margin-top: 50px; 
+	background-color: #23282d;
+    color: white;
+    padding: 30px;
+}
+
+.wie-import-results-space {
+	display: none;
+}
+
+
+h3.title {
+	margin-top: 10px;
+}
+/*.ajax-loader img {
+  position: absolute;
+  top:0%;
+  left:0%;
+}*/
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #23282d;
+  border-bottom: 16px solid #23282d;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  margin-top: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.jumbotron {
+  margin-top: 18%;
+  background-color: #23282d;
+  color: white;
+}
+
+.demo-card {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  background-color: #23282d;
+  color: white;
+  border: none;
+}
+
+.theme-browser .theme .theme-name {
+  height: 100%;
+}
+
+.theme-browser .theme .theme-screenshot img {
+  height: 100%;
+}
+
+
+.theme-browser .theme {
+  margin: 0 2% 4% 2%;
+}
+.list-plugin {
+  float: left;
+  padding: 10px;
+  width: 100%;
+}
+
+.modal-loader {
+
+margin-top: 15%;
+
+}
+
+.loading-text {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.loading-text span {
+  padding: 10px;
+  font-size: 12px;
+}
+
+.upload-div {
+  width: 100%;
+  padding-top: 10px;
+}
+
+.buy-theme {
+  color: white;
+}
+
+.buy-theme:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.filter-links.nav.nav-pills {
+  display: contents;
+} 
+
+.filter-links li>a.active {
+  box-shadow: none;
+  border-bottom: 4px solid #666;
+  color: #23282d;
+}
+
+.filter-links li>a:focus, .filter-links li>a:hover, .show-filters .filter-links a.current:focus, .show-filters .filter-links a.current:hover {
+  text-decoration: none;
+}
+
+.modal {
+  z-index: 9999;
+}
+
+.import-preview {
+  display: none;
+}
